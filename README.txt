@@ -6,7 +6,7 @@
 * Author URI: https://it-habich.de
 * Contributors: ithabich
 * Tags: restrict registration, limit registration, user registration, mail restriction, registration form, security plugin 
-* Tested up to: 6.1
+* Tested up to: 6.2
 * Requires at least: 6.1
 * Requires PHP: 8.0
 * Stable tag: 1.0.0
